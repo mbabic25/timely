@@ -1,3 +1,5 @@
+The project enables creating project forms, reading from a database and writing into the database.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
